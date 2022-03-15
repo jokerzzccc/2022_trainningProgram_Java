@@ -1,0 +1,11 @@
+
+f	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üë¿Ì
+f	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó‚µ…
+=
+java:S1604W"(Make this anonymous inner class a lambda(õŽÃ
+h
+java:S11040"MMake c a static final constant or non-public and provide accessors if needed.(ïòÊ²ýÿÿÿÿ
+d
+java:S11041"NMake no a static final constant or non-public and provide accessors if needed.(Ë¥ÏÄ
+l
+java:S11042"QMake count a static final constant or non-public and provide accessors if needed.(†Í˜Åýÿÿÿÿ

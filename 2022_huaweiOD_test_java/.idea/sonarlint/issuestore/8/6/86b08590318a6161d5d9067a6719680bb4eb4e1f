@@ -1,0 +1,7 @@
+
+r	java:S127I"XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ
+m	java:S127S"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘
+M
+java:S60359"0Replace this alternation with a character class.(Ñ€Ï˜8øøÃÌ÷/
